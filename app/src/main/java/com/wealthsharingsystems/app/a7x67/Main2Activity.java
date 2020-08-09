@@ -28,6 +28,7 @@ import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.ads.AdView;
@@ -61,6 +62,7 @@ public class Main2Activity extends AppCompatActivity implements NavigationView.O
     private ValueCallback<Uri> mUploadMessage;
     private final static int FILECHOOSER_RESULTCODE=1;
     public ValueCallback<Uri[]> uploadMessage;
+    TextView tv;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
