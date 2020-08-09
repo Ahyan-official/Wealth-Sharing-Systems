@@ -1,4 +1,5 @@
-# Wealth-Sharing-Systems is Cameroon based startup company. First Global Wealth Redistribution Technology Incorporating Blockchain Infrastructure. MONEYPOOLS™ Technology allows participants using small sums of Crypto to enter into the Lower Middle, Upper-Middle, Millionaire, and Billionaire Wealth Class.
+# Wealth-Sharing-Systems 
+A Cameroon based startup company. First Global Wealth Redistribution Technology Incorporating Blockchain Infrastructure. MONEYPOOLS™ Technology allows participants using small sums of Crypto to enter into the Lower Middle, Upper-Middle, Millionaire, and Billionaire Wealth Class.
 
 Problem & Solution
 Problem:
