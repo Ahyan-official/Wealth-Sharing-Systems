@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:id="@+id/top"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_1"
+            android:title="Log in"
+            android:icon="@drawable/login_nav"
+            />
+        <item android:id="@+id/nav_2"
+            android:title="Home"
+            android:icon="@drawable/home_nav"
+            />
+        <item android:id="@+id/nav_3"
+            android:title="Play"
+            android:icon="@drawable/play_nav"
+            />
+
+        <item android:id="@+id/nav_4"
+            android:title="Deposit"
+            android:icon="@drawable/deposit_nav"
+            />
+
+        <item android:id="@+id/nav_5"
+            android:title="Accounts"
+            android:icon="@drawable/account_nav"
+            />
+        <item android:id="@+id/nav_6"
+            android:title="Games Won"
+            android:icon="@drawable/top_nav"
+
+            />
+
+        <item android:id="@+id/nav_7"
+            android:title="Winners"
+            android:icon="@drawable/winners_nav"
+            />
+
+
+    </group>
+
+
+
+    <group>
+        <item android:title="Other">
+        </item>
+    </group>
+    <group android:id="@+id/other">
+
+        <item android:id="@+id/nav_9"
+            android:title="Affiliates"
+            android:icon="@drawable/affliate_nav"
+            />
+        <item android:id="@+id/nav_10"
+            android:title="Top 100"
+            android:icon="@drawable/top1_nav"
+            />
+        <item android:id="@+id/nav_11"
+            android:title="Videos"
+            android:icon="@drawable/video_nav"
+
+            />
+        <item android:id="@+id/nav_12"
+            android:title="Crypto News"
+            android:icon="@drawable/news_nav"
+            />
+        <item android:id="@+id/nav_13"
+            android:title="Blog"
+            android:icon="@drawable/blog_nav"
+            />
+        <item android:id="@+id/nav_14"
+            android:title="Forum"
+            android:icon="@drawable/form_nav"
+            />
+        <item android:id="@+id/nav_15"
+            android:title="ICO"
+            android:icon="@drawable/ico_nav"
+            />
+</group>
+
+
+
+    <group>
+        <item android:title="Support">
+        </item>
+    </group>
+    <group
+        android:id="@+id/support">
+
+        <item android:id="@+id/nav_16"
+            android:title="E-mail us"
+            android:icon="@drawable/mail_nav"
+            />
+        <item android:id="@+id/nav_17"
+            android:title="Log Out"
+            android:icon="@drawable/logout_nav"
+            />
+
+    </group>
+
+
+</menu>
